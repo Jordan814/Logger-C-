@@ -1,0 +1,15 @@
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.csproj.AssemblyReference.cache
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.AssemblyInfoInputs.cache
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.AssemblyInfo.cs
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\bin\Debug\net7.0\Solid Урок 7 ООП.exe
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\bin\Debug\net7.0\Solid Урок 7 ООП.deps.json
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\bin\Debug\net7.0\Solid Урок 7 ООП.runtimeconfig.json
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\bin\Debug\net7.0\Solid Урок 7 ООП.dll
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\bin\Debug\net7.0\Solid Урок 7 ООП.pdb
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.dll
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\refint\Solid Урок 7 ООП.dll
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.pdb
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\Solid Урок 7 ООП.genruntimeconfig.cache
+C:\Users\Dancho\RiderProjects\Solid Урок 7 ООП\Solid Урок 7 ООП\obj\Debug\net7.0\ref\Solid Урок 7 ООП.dll
